@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01a9fc93-f4d0-4bcd-ade9-46864f9d08c9" name="jseis.me" url="http://jseis.me">
+        <fileTransfer host="jseis.me" port="21" rootFolder="/csci3000.jseis.me">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
