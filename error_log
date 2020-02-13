@@ -1,3 +1,63 @@
 [21-Jan-2020 11:58:06 America/Chicago] PHP Warning:  require(templates/footer.php): failed to open stream: No such file or directory in /home1/jselliott/csci3000.jseis.me/index.php on line 18
 [21-Jan-2020 11:58:06 America/Chicago] PHP Warning:  require(templates/footer.php): failed to open stream: No such file or directory in /home1/jselliott/csci3000.jseis.me/index.php on line 18
 [21-Jan-2020 11:58:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'templates/footer.php' (include_path='.:/opt/php71/lib/php') in /home1/jselliott/csci3000.jseis.me/index.php on line 18
+[11-Feb-2020 18:05:32 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[11-Feb-2020 18:05:33 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[11-Feb-2020 18:05:33 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[11-Feb-2020 18:05:33 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[12-Feb-2020 14:14:33 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[12-Feb-2020 14:14:33 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[12-Feb-2020 14:14:33 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[12-Feb-2020 14:14:33 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[13-Feb-2020 21:56:49 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[13-Feb-2020 21:56:49 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[13-Feb-2020 21:56:49 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[13-Feb-2020 21:56:49 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0

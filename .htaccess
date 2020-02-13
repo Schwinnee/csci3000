@@ -1,0 +1,5 @@
+# BEGIN custom php.ini PHP54
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home1/jselliott/csci3000.jseis.me
+</IfModule>
+# END custom php.ini
